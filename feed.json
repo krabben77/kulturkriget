@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kulturkriget",
+    "description": "",
+    "home_page_url": "https://github.com/krabben77/kulturkriget",
+    "feed_url": "https://github.com/krabben77/kulturkriget/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://github.com/krabben77/kulturkriget/7iloo.html",
+            "url": "https://github.com/krabben77/kulturkriget/7iloo.html",
+            "title": "7iloo",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-28T23:30:22+01:00",
+            "date_modified": "2022-11-28T23:30:22+01:00"
+        }
+    ]
+}
