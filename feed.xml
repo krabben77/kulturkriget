@@ -3,22 +3,30 @@
     <title>Kulturkriget</title>
     <link href="https://github.com/krabben77/blogg/feed.xml" rel="self" />
     <link href="https://github.com/krabben77/blogg" />
-    <updated>2022-11-28T23:40:46+01:00</updated>
+    <updated>2022-11-28T23:47:05+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://github.com/krabben77/blogg</id>
 
     <entry>
-        <title>7iloo</title>
+        <title>Bokmärken</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://github.com/krabben77/blogg/7iloo/"/>
-        <id>https://github.com/krabben77/blogg/7iloo/</id>
+        <link href="https://github.com/krabben77/blogg/bokmaerken/"/>
+        <id>https://github.com/krabben77/blogg/bokmaerken/</id>
 
-        <updated>2022-11-28T23:40:46+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-11-28T23:47:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    https://www.flashback.org/sp82572236
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>https://www.flashback.org/sp82572236</p>
+            ]]>
+        </content>
     </entry>
 </feed>
