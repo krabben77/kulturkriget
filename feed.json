@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kulturkriget",
     "description": "",
-    "home_page_url": "https://github.com/krabben77/kulturkriget",
-    "feed_url": "https://github.com/krabben77/kulturkriget/feed.json",
+    "home_page_url": "https://github.com/krabben77/blogg",
+    "feed_url": "https://github.com/krabben77/blogg/feed.json",
     "user_comment": "",
     "author": {
         "name": "admin"
     },
     "items": [
         {
-            "id": "https://github.com/krabben77/kulturkriget/7iloo.html",
-            "url": "https://github.com/krabben77/kulturkriget/7iloo.html",
+            "id": "https://github.com/krabben77/blogg/7iloo/",
+            "url": "https://github.com/krabben77/blogg/7iloo/",
             "title": "7iloo",
             "author": {
                 "name": "admin"

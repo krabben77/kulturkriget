@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Kulturkriget</title>
-    <link href="https://github.com/krabben77/kulturkriget/feed.xml" rel="self" />
-    <link href="https://github.com/krabben77/kulturkriget" />
+    <link href="https://github.com/krabben77/blogg/feed.xml" rel="self" />
+    <link href="https://github.com/krabben77/blogg" />
     <updated>2022-11-28T23:40:46+01:00</updated>
     <author>
         <name>admin</name>
     </author>
-    <id>https://github.com/krabben77/kulturkriget</id>
+    <id>https://github.com/krabben77/blogg</id>
 
     <entry>
         <title>7iloo</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://github.com/krabben77/kulturkriget/7iloo.html"/>
-        <id>https://github.com/krabben77/kulturkriget/7iloo.html</id>
+        <link href="https://github.com/krabben77/blogg/7iloo/"/>
+        <id>https://github.com/krabben77/blogg/7iloo/</id>
 
         <updated>2022-11-28T23:40:46+01:00</updated>
             <summary></summary>
