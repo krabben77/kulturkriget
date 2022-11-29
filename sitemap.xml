@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/krabben77/kulturkriget/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://krabben77.github.io/kulturkriget/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/krabben77/kulturkriget/</loc>
+<loc>https://krabben77.github.io/kulturkriget/</loc>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/ddddd/</loc>
+<loc>https://krabben77.github.io/kulturkriget/ddddd/</loc>
 <lastmod>2022-11-29T01:40:14+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/du-aer-en-omedveten-rasist/</loc>
+<loc>https://krabben77.github.io/kulturkriget/du-aer-en-omedveten-rasist/</loc>
 <lastmod>2022-11-29T05:59:37+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/fvvv/</loc>
+<loc>https://krabben77.github.io/kulturkriget/fvvv/</loc>
 <lastmod>2022-11-29T01:37:42+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/juridsk-hjaelp/</loc>
+<loc>https://krabben77.github.io/kulturkriget/juridsk-hjaelp/</loc>
 <lastmod>2022-11-29T02:02:30+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/kriminalvarden/</loc>
+<loc>https://krabben77.github.io/kulturkriget/kriminalvarden/</loc>
 <lastmod>2022-11-29T02:30:55+01:00</lastmod>
 <image:image>
-<image:loc>https://github.com/krabben77/kulturkriget/media\posts\6/elvis-presley-promoting-jailhouse-rock-800x445.jpg</image:loc>
+<image:loc>https://krabben77.github.io/kulturkriget/media\posts\6/elvis-presley-promoting-jailhouse-rock-800x445.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/oenskemal/</loc>
+<loc>https://krabben77.github.io/kulturkriget/oenskemal/</loc>
 <lastmod>2022-11-29T06:46:25+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/krabben77/kulturkriget/tankar-om-kina-och-om-oss/</loc>
+<loc>https://krabben77.github.io/kulturkriget/tankar-om-kina-och-om-oss/</loc>
 <lastmod>2022-11-29T05:49:48+01:00</lastmod>
 </url>
 </urlset>
