@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Anarkistens kokbok</title>
-    <link href="https://krabben77.github.io/kulturkriget/feed.xml" rel="self" />
-    <link href="https://krabben77.github.io/kulturkriget" />
+    <link href="https://krabben77github.io/kulturkriget/feed.xml" rel="self" />
+    <link href="https://krabben77github.io/kulturkriget" />
     <updated>2022-11-29T06:46:25+01:00</updated>
     <author>
         <name>admin</name>
     </author>
-    <id>https://krabben77.github.io/kulturkriget</id>
+    <id>https://krabben77github.io/kulturkriget</id>
 
     <entry>
         <title>Önskemål</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://krabben77.github.io/kulturkriget/oenskemal/"/>
-        <id>https://krabben77.github.io/kulturkriget/oenskemal/</id>
+        <link href="https://krabben77github.io/kulturkriget/oenskemal/"/>
+        <id>https://krabben77github.io/kulturkriget/oenskemal/</id>
 
         <updated>2022-11-29T06:46:25+01:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>admin</name>
         </author>
-        <link href="https://krabben77.github.io/kulturkriget/du-aer-en-omedveten-rasist/"/>
-        <id>https://krabben77.github.io/kulturkriget/du-aer-en-omedveten-rasist/</id>
+        <link href="https://krabben77github.io/kulturkriget/du-aer-en-omedveten-rasist/"/>
+        <id>https://krabben77github.io/kulturkriget/du-aer-en-omedveten-rasist/</id>
 
         <updated>2022-11-29T05:59:37+01:00</updated>
             <summary>
@@ -46,8 +46,8 @@
         <author>
             <name>admin</name>
         </author>
-        <link href="https://krabben77.github.io/kulturkriget/tankar-om-kina-och-om-oss/"/>
-        <id>https://krabben77.github.io/kulturkriget/tankar-om-kina-och-om-oss/</id>
+        <link href="https://krabben77github.io/kulturkriget/tankar-om-kina-och-om-oss/"/>
+        <id>https://krabben77github.io/kulturkriget/tankar-om-kina-och-om-oss/</id>
 
         <updated>2022-11-29T05:49:48+01:00</updated>
             <summary>
@@ -66,8 +66,8 @@
         <author>
             <name>admin</name>
         </author>
-        <link href="https://krabben77.github.io/kulturkriget/juridsk-hjaelp/"/>
-        <id>https://krabben77.github.io/kulturkriget/juridsk-hjaelp/</id>
+        <link href="https://krabben77github.io/kulturkriget/juridsk-hjaelp/"/>
+        <id>https://krabben77github.io/kulturkriget/juridsk-hjaelp/</id>
 
         <updated>2022-11-29T02:02:30+01:00</updated>
             <summary>
