@@ -3,29 +3,69 @@
     <title>Kulturkriget</title>
     <link href="https://github.com/krabben77/blogg/feed.xml" rel="self" />
     <link href="https://github.com/krabben77/blogg" />
-    <updated>2022-11-28T23:47:05+01:00</updated>
+    <updated>2022-11-29T02:00:18+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://github.com/krabben77/blogg</id>
 
     <entry>
-        <title>Bokmärken</title>
+        <title>Juridsk hjälp</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://github.com/krabben77/blogg/bokmaerken/"/>
-        <id>https://github.com/krabben77/blogg/bokmaerken/</id>
+        <link href="https://github.com/krabben77/blogg/juridsk-hjaelp/"/>
+        <id>https://github.com/krabben77/blogg/juridsk-hjaelp/</id>
 
-        <updated>2022-11-28T23:47:05+01:00</updated>
+        <updated>2022-11-29T02:00:18+01:00</updated>
             <summary>
                 <![CDATA[
-                    https://www.flashback.org/sp82572236
+                    Juristjouren Lund är en ideell förening driven av juriststudenter vid Lunds universitet. Vi erbjuder kostnadsfri juridisk information och har vårt huvudkontor i centrala Lund, men rör oss också i andra delar av Skåne. Hos oss kan du få du hjälp med att få information om&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>https://www.flashback.org/sp82572236</p>
+                <p>Juristjouren Lund är en ideell förening driven av juriststudenter vid Lunds universitet. Vi erbjuder kostnadsfri juridisk information och har vårt huvudkontor i centrala Lund, men rör oss också i andra delar av Skåne. Hos oss kan du få du hjälp med att få information om vart du kan vända dig vidare för fortsatt vägledning. https://juristjourenlund.se/sv/hem/</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ddddd</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://github.com/krabben77/blogg/ddddd/"/>
+        <id>https://github.com/krabben77/blogg/ddddd/</id>
+
+        <updated>2022-11-29T01:40:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    dddddddddd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dddddddddd</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>fvvv</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://github.com/krabben77/blogg/fvvv/"/>
+        <id>https://github.com/krabben77/blogg/fvvv/</id>
+
+        <updated>2022-11-29T01:37:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    evdfvdfv
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>evdfvdfv</p>
             ]]>
         </content>
     </entry>
