@@ -3,12 +3,24 @@
     <title>Anarkistens kokbok</title>
     <link href="https://github.com/krabben77/blogg/feed.xml" rel="self" />
     <link href="https://github.com/krabben77/blogg" />
-    <updated>2022-11-29T05:59:37+01:00</updated>
+    <updated>2022-11-29T06:37:43+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://github.com/krabben77/blogg</id>
 
+    <entry>
+        <title>Önskemål</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://github.com/krabben77/blogg/oenskemal/"/>
+        <id>https://github.com/krabben77/blogg/oenskemal/</id>
+
+        <updated>2022-11-29T06:37:43+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Du är omedvetet rasist</title>
         <author>
